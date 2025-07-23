@@ -1,7 +1,7 @@
 import InputField from "../components/InputFiled";  // ✅ Fixed typo
 import Button from "../components/Button";
 import Logo from "../assets/logo.png";              // ✅ Your real logo
-import RobotImg from "../assets/RobotImg.png";      // ✅ Your real illustration
+import RobotImg from "../assets/robotimg.png";      // ✅ Your real illustration
 import Google from "../assets/google.png";      // ✅ Your real illustration
 import Microsoft from "../assets/microsoft.png";      // ✅ Your real illustration
 import { Link } from "react-router-dom";

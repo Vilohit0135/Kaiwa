@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import InputField from "../components/InputFiled";
 import Button from "../components/Button";
 import Logo from "../assets/logo.png";
-import RobotImg from "../assets/RobotImg.png";
+import RobotImg from "../assets/robotimg.png";
 import Google from "../assets/google.png";      // ✅ Your real illustration
 import Microsoft from "../assets/microsoft.png";
 
